@@ -9,3 +9,5 @@ github_username:  nguyentuananhrmit
 # Build settings
 markdown: kramdown
 theme: mimina
+ jekyll-feed
+ jekyll-Seo-tag
